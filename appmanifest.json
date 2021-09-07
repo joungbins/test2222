@@ -1,7 +1,7 @@
 {
-	"name": "Bridges",
-	"short_name": "Bridges",
-	"description": "Bridges",
+	"name": "block line",
+	"short_name": "block line",
+	"description": "block line",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
